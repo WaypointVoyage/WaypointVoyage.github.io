@@ -1,0 +1,7 @@
+{
+	"first-line-heading": false,
+	"no-trailing-punctuation": false,
+	"line-length": {
+		"line_length": 120
+	}
+}
