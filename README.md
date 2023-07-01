@@ -5,7 +5,10 @@ A static jekyll website for Waypoint Voyage.
 ## Development Setup
 
 ```shell
-# One time installation
+# Install bundler and jekyll
+gem install bundler jekyll
+
+# Install project gems
 bundle install
 
 # Start the development server
