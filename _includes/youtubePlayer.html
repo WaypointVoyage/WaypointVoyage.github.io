@@ -1,9 +1,10 @@
-<div style="position: relative; padding-bottom: 56.25%; margin-top: 2em; margin-bottom: 2em;">
+<div id="waypoint-voyage-youtube" style="position: relative; padding-bottom: 56.25%; margin-top: 1em; margin-bottom: 2em;">
 	<iframe
-		src="https://www.youtube.com/embed/{{ include.id }}"
+		src="https://www.youtube.com/embed/{{ include.id }}?wmode=transparent"
+		wmode="Opaque"
 		frameborder="0"
 		allow="accelerometer; autoplay; encrypted-media; gyroscope;"
 		allowfullscreen="true"
-		style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; aspect-ratio: 16 /9;">
+		style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; aspect-ratio: 16 /9; z-index: -999 !important;">
 	</iframe>
 </div>

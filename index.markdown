@@ -19,3 +19,5 @@ Navigate along several waypoints on the map that lead to 'X' marks the spot.
 
 However beware.... for legend tells of a deadly foe that guards the hidden trove of booty.
 Weigh anchor and hoist the mizzen, it’s time to set sail!!!
+
+{% include download.html %}
