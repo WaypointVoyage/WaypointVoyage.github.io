@@ -25,4 +25,4 @@ Weigh anchor and hoist the mizzen, it’s time to set sail!!!
 <br />
 
 > Waypoint Voyage is completely free-to-play with no in-app purchases.
-All features and upgrades are purchased using an in-game fictional currency.
+> All features and upgrades are purchased using an in-game fictional currency.
