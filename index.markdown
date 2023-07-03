@@ -21,3 +21,8 @@ However beware.... for legend tells of a deadly foe that guards the hidden trove
 Weigh anchor and hoist the mizzen, it’s time to set sail!!!
 
 {% include download.html %}
+
+<br />
+
+> Waypoint Voyage is completely free-to-play with no in-app purchases.
+All features and upgrades are purchased using an in-game fictional currency.
